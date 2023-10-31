@@ -1,0 +1,11 @@
+pandas 
+numpy
+scikit-learn
+matplotlib
+ipykernel
+scipy
+scikit-image
+shap
+plotly
+lightgbm
+ast
